@@ -1,1 +1,1 @@
-D:\NDI-LAP-345\Project\SampleApp\SampleConsoleApp\.sonarqube\out\0
+D:\NDI-LAP-345\Project\SampleApp\sonarsample\sonargit\.sonarqube\out\0
