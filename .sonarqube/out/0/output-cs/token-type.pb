@@ -1,4 +1,4 @@
-Ù
+Ç
 ID:\NDI-LAP-345\Project\SampleApp\sonarsample\sonargit\sonarapp\Program.cs
  
  
@@ -6,7 +6,8 @@ ID:\NDI-LAP-345\Project\SampleApp\sonarsample\sonargit\sonarapp\Program.cs
  
  
  			 			
-    Ã
+      *    &6 > 
+     " (  ' +, 1Ã
 YD:\NDI-LAP-345\Project\SampleApp\sonarsample\sonargit\sonarapp\Properties\AssemblyInfo.cs
  
  
