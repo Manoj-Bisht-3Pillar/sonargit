@@ -12,10 +12,9 @@ namespace sonarapp
         {
             string test = "This is a test";
 
-            Boolean what = (new verify( )).verifywhat("whatif");
+            Boolean what = (new verify()).verifywhat("whatif");
 
-            Boolean whatif = (new verify()).verifywhat("whatifif");
-
+            Boolean whatif = (new verify()).verifywhat("whatif");
 
         }
     }
@@ -26,7 +25,7 @@ namespace sonarapp
 
         public Boolean verifywhat(string name)
         {
-            return this.name == name ? true:false;
+            return this.name == name ? true : false;
         }
-    } 
+    }
 }
