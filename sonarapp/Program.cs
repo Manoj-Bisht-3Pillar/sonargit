@@ -13,6 +13,10 @@ namespace sonarapp
             string test = "This is a test";
 
             Boolean what = (new verify( )).verifywhat("whatif");
+
+            Boolean whatif = (new verify()).verifywhat("whatifif");
+
+
         }
     }
 
