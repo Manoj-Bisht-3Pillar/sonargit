@@ -18,6 +18,8 @@ namespace sonarapp
 
             Boolean whatiffff = (new verify()).verifywhat("whatififff");
 
+            Boolean whatifsssfff = (new verify()).verifywhat("whatififfsssf");
+
         }
     }
 
