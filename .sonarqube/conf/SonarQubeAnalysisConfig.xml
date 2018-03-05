@@ -84,7 +84,7 @@
     <Property Name="sonar.dbcleaner.weeksBeforeDeletingAllSnapshots">260</Property>
     <Property Name="sonar.updatecenter.url">https://update.sonarsource.org/update-center.properties</Property>
     <Property Name="sonar.core.id">AWG8tu8qowJpcBv1saw_</Property>
-    <Property Name="sonar.core.startTime">2/26/2018 7:13:00 PM</Property>
+    <Property Name="sonar.core.startTime">2/28/2018 12:08:05 PM</Property>
   </ServerSettings>
   <LocalSettings />
   <AnalyzersSettings>
