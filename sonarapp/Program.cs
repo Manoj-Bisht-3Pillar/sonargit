@@ -20,13 +20,16 @@ namespace sonarapp
 
             Boolean verifiyResult = v.verifywhat(string.Empty);
 
+            Console.WriteLine("some message");
+
+
         
         }
     }
 
     public class verify
     {
-        string name;
+        public string name;
 
         public Boolean verifywhat(string name)
         {
