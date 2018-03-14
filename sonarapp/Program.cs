@@ -16,7 +16,10 @@ namespace sonarapp
 
             Boolean whatif = (new verify()).verifywhat("whatif");
 
-            verify v= new verify();
+            Boolean whatiff = (new verify()).verifywhat("whatif");
+
+
+            verify v = new verify();
 
             Boolean verifiyResult = v.verifywhat(string.Empty);
 
