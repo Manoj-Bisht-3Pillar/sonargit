@@ -25,8 +25,6 @@ namespace sonarapp
             Console.WriteLine("some message 123");
 
 
-            Console.WriteLine("some message 12345");
-
 
         }
     }
