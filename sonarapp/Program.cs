@@ -18,6 +18,8 @@ namespace sonarapp
 
             Boolean whatiff = (new verify()).verifywhat("whatif");
 
+            Boolean whatifff = (new verify()).verifywhat("another whatif");
+
 
             verify v = new verify();
 
@@ -26,8 +28,6 @@ namespace sonarapp
             Console.WriteLine("some message");
 
             Console.WriteLine("some message 123");
-
-
 
         }
     }
