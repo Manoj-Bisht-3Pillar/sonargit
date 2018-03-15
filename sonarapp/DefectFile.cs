@@ -10,5 +10,13 @@ namespace sonarapp
     {
         public string FileName = "Some file name";
         public string DirectoryName = "Name of the directory";
+
+        
+    }
+
+    public class DefectClass
+    {
+        public string DirectoryPath = "Name of the directory";
+
     }
 }
