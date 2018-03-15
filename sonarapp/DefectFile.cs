@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace sonarapp
+{
+    public class DefectFile
+    {
+        public string FileName = "Some file name";
+        public string DirectoryName = "Name of the directory";
+
+        
+    }
+
+    public class DefectClass
+    {
+        public string DirectoryPath = "Name of the directory";
+
+    }
+
+    public class DefectClass1
+    {
+        public string DirectoryPath = "Name of the directory";
+
+    }
+}
