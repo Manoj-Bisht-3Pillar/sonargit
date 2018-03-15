@@ -19,4 +19,10 @@ namespace sonarapp
         public string DirectoryPath = "Name of the directory";
 
     }
+
+    public class DefectClass1
+    {
+        public string DirectoryPath = "Name of the directory";
+
+    }
 }
